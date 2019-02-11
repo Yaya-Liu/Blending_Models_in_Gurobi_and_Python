@@ -15,7 +15,7 @@ between 85 and 90 and a second index between 270 and 280.
 
   - Gasoline1 18%  
 
-  - Gasline2  35%
+  - Gasoline2  35%
 
-  - Gasline3  47%
+  - Gasoline3  47%
 
