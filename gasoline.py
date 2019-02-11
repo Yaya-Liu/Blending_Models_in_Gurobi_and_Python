@@ -2,7 +2,7 @@
 """
 Created on Sun Feb  3 18:13:21 2019
 
-@author: clove
+@author: Yaya Liu
 """
 
 from gurobipy import *
